@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FB6TUjZzRFZ9USy+ShLNmI42AiHON9Fw5MmDR12HGcNQTIhBo/xsYFU7oZkXI99vIn5jVCGdZnYwjPonz5Fdgg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rafae\\mentoria\\curso-mensageria-com-rabbitmq-e-aspnetcore\\EasyNetQ\\EasyNetQ.Console\\EasyNetQ.Console.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rafae\\.nuget\\packages\\easynetq\\7.8.0\\easynetq.7.8.0.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\rafae\\.nuget\\packages\\system.threading.channels\\7.0.0\\system.threading.channels.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
