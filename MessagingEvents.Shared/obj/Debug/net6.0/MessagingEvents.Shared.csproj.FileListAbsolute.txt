@@ -1,0 +1,11 @@
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\bin\Debug\net6.0\MessagingEvents.Shared.deps.json
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\bin\Debug\net6.0\MessagingEvents.Shared.dll
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\bin\Debug\net6.0\MessagingEvents.Shared.pdb
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.AssemblyInfoInputs.cache
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.AssemblyInfo.cs
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.csproj.CoreCompileInputs.cache
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.dll
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\refint\MessagingEvents.Shared.dll
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\MessagingEvents.Shared.pdb
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\MessagingEvents.Shared\obj\Debug\net6.0\ref\MessagingEvents.Shared.dll

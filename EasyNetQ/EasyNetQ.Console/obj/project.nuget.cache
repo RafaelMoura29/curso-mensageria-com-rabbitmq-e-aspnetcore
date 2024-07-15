@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FB6TUjZzRFZ9USy+ShLNmI42AiHON9Fw5MmDR12HGcNQTIhBo/xsYFU7oZkXI99vIn5jVCGdZnYwjPonz5Fdgg==",
+  "dgSpecHash": "cbnZ6BcV3f36v23bn9EDM1XQrxR5CJ7ob+ZgX3jrw4lY0uFb5NXiMlBJwWuLKYq6Up6D3llo/7kvCKYhQ4lXXA==",
   "success": true,
   "projectFilePath": "C:\\Users\\rafae\\mentoria\\curso-mensageria-com-rabbitmq-e-aspnetcore\\EasyNetQ\\EasyNetQ.Console\\EasyNetQ.Console.csproj",
   "expectedPackageFiles": [
