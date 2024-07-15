@@ -1,0 +1,17 @@
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\bin\Debug\net8.0\RabbitMQClient.Console.exe
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\bin\Debug\net8.0\RabbitMQClient.Console.deps.json
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\bin\Debug\net8.0\RabbitMQClient.Console.runtimeconfig.json
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\bin\Debug\net8.0\RabbitMQClient.Console.dll
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\bin\Debug\net8.0\RabbitMQClient.Console.pdb
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\bin\Debug\net8.0\RabbitMQ.Client.dll
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.csproj.AssemblyReference.cache
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.AssemblyInfoInputs.cache
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.AssemblyInfo.cs
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.csproj.CoreCompileInputs.cache
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.csproj.CopyComplete
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.dll
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\refint\RabbitMQClient.Console.dll
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.pdb
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\RabbitMQClient.Console.genruntimeconfig.cache
+C:\Users\rafae\mentoria\curso-mensageria-com-rabbitmq-e-aspnetcore\RabbitMQClient.Console\obj\Debug\net8.0\ref\RabbitMQClient.Console.dll
