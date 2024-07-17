@@ -17,6 +17,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyNetQ.Customers.API", "E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyNetQ.Marketing.API", "EasyNetQ\EasyNetQ.Marketing.API\EasyNetQ.Marketing.API.csproj", "{1A643D05-AD7B-45C6-A663-FB6D37766A4E}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MassTransit", "MassTransit", "{A051B32E-F51E-4062-B4CA-2724AAA9146B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MassTransit.Customers", "MassTransit\MassTransit.Customers\MassTransit.Customers.csproj", "{C21F25A1-0EBD-48EC-8688-61DE4977D713}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,11 +55,18 @@ Global
 		{1A643D05-AD7B-45C6-A663-FB6D37766A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A643D05-AD7B-45C6-A663-FB6D37766A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A643D05-AD7B-45C6-A663-FB6D37766A4E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C21F25A1-0EBD-48EC-8688-61DE4977D713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C21F25A1-0EBD-48EC-8688-61DE4977D713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C21F25A1-0EBD-48EC-8688-61DE4977D713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C21F25A1-0EBD-48EC-8688-61DE4977D713}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {216D5106-489C-44BB-BB7B-4169DC44ECF8}
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C21F25A1-0EBD-48EC-8688-61DE4977D713} = {A051B32E-F51E-4062-B4CA-2724AAA9146B}
 	EndGlobalSection
 EndGlobal

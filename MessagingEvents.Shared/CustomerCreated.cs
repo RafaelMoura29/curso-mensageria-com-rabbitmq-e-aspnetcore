@@ -1,4 +1,5 @@
 ﻿using System;
+namespace MessagingEvents.Shared.Models;
 
 public class CustomerCreated
 {

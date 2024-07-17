@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EasyNetQ.Customers.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+132fbd943615dce106dd0be7fcdb313ce262ef7d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("EasyNetQ.Customers.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EasyNetQ.Customers.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
