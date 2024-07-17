@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "F8hBMxu+oETZyvck29MN2luig5cyttGjC+uyoszkdDc=",
+  "Source": "EasyNetQ.Customers.API",
+  "BasePath": "_content/EasyNetQ.Customers.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

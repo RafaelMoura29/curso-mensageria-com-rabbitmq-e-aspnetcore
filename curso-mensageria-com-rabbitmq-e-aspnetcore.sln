@@ -11,7 +11,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQClient.Customers.AP
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RabbitMQClient.Marketing.API", "RabbitMQ.Client\RabbitMQClient.Marketing.API\RabbitMQClient.Marketing.API.csproj", "{6A82548D-B13A-45FA-A990-FB77F8AFFD58}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessagingEvents.Shared", "MessagingEvents.Shared\MessagingEvents.Shared.csproj", "{417C4B30-65EA-4665-9900-C8E911006D4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MessagingEvents.Shared", "MessagingEvents.Shared\MessagingEvents.Shared.csproj", "{417C4B30-65EA-4665-9900-C8E911006D4A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyNetQ.Customers.API", "EasyNetQ\EasyNetQ.Customers.API\EasyNetQ.Customers.API.csproj", "{F857C6E9-1813-4A18-8C24-049313B6FD47}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EasyNetQ.Marketing.API", "EasyNetQ\EasyNetQ.Marketing.API\EasyNetQ.Marketing.API.csproj", "{1A643D05-AD7B-45C6-A663-FB6D37766A4E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +43,14 @@ Global
 		{417C4B30-65EA-4665-9900-C8E911006D4A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{417C4B30-65EA-4665-9900-C8E911006D4A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{417C4B30-65EA-4665-9900-C8E911006D4A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F857C6E9-1813-4A18-8C24-049313B6FD47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F857C6E9-1813-4A18-8C24-049313B6FD47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F857C6E9-1813-4A18-8C24-049313B6FD47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F857C6E9-1813-4A18-8C24-049313B6FD47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A643D05-AD7B-45C6-A663-FB6D37766A4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A643D05-AD7B-45C6-A663-FB6D37766A4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A643D05-AD7B-45C6-A663-FB6D37766A4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A643D05-AD7B-45C6-A663-FB6D37766A4E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
